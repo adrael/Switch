@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\switch.o
+./release\googletalk.o
+./release\wlm.o
+./release\twitter.o
+./release\skype.o
+./release\facebook.o
+./release\manager.o
+./release\moc_switch.o
+./release\moc_googletalk.o
+./release\moc_lineedit.o
+./release\moc_wlm.o
+./release\moc_twitter.o
+./release\moc_skype.o
+./release\moc_facebook.o
+);

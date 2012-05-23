@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\switch.o
+./debug\googletalk.o
+./debug\wlm.o
+./debug\twitter.o
+./debug\skype.o
+./debug\facebook.o
+./debug\manager.o
+./debug\moc_switch.o
+./debug\moc_googletalk.o
+./debug\moc_lineedit.o
+./debug\moc_wlm.o
+./debug\moc_twitter.o
+./debug\moc_skype.o
+./debug\moc_facebook.o
+);
