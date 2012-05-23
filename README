@@ -1,4 +1,34 @@
-Switch is an multi-platform social-oriented application developped using Qt.
-Under the GNU General Public License.
+Switch is an multi-platform social-oriented application developped using Qt and Crypto++.
+It lets you link your accounts to a unique one, which will make you win a lot of time.
+Every single data you type in, such as passwords, are really secured using advanced
+cryptographic features such as MD5, blowfish, DES3, SHA1...
 
-For GNU/Linux, Mac OS and Windows.
+Currently working with Facebook, Skype, Google+, Windows Live Messenger, Twitter.
+
+This software is working on both 32bits and 64bits architectures.
+
+Under the GNU General Public License.
+For GNU/Linux and Windows. Mac OS will be soon available. 
+
+Requires iTunes to work and at least a valid iTunes backup of your iDevice.
+
+How To Compile With Linux / Windows:
+------------------------------------
+
+You need to have Qt 4.7 or higher in order to compile the project.
+
+1) qmake
+
+If you have already installed make on your computer then launch it.
+
+2) make
+
+Else launch the make program which has been installed with Qt:
+
+2) mingw32-make
+
+TO DO LIST:
+
+  >> Connection using XMPP
+  >> Interface
+  >> Protocols
